@@ -4,7 +4,7 @@ author: ["Shane Mulligan"]
 date: 2022-08-13T00:00:00+12:00
 keywords: ["dalle", "melee"]
 draft: false
-image: "DALL·E 2022-08-13 11.45.06 - strawberry brownies. Digital Art.jpg"
+image: "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/strawberry-brownies/DALL%C2%B7E%202022-08-13%2011.45.06%20-%20strawberry%20brownies.%20Digital%20Art.jpg"
 imagecredit: "dalle"
 yield: 10
 prepTime: 20
