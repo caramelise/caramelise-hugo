@@ -12,7 +12,7 @@
 #+hugo_custom_front_matter: :prepTime 90
 #+hugo_custom_front_matter: :cookTime 60
 #+hugo_custom_front_matter: :authorName Shane
-#+hugo_custom_front_matter: :authorURL: https://caramelise.github.io/
+#+hugo_custom_front_matter: :authorURL https://caramelise.github.io/
 #+hugo_custom_front_matter: :category dessert
 #+hugo_custom_front_matter: :cuisine USA
 
