@@ -1,41 +1,49 @@
-+++
-title = "Strawberry Brownies"
-author = ["Shane Mulligan"]
-date = 2022-08-13T00:00:00+12:00
-keywords = ["dalle", "melee"]
-draft = false
-image = "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/strawberry-brownies/DALL%C2%B7E%202022-08-13%2011.45.06%20-%20strawberry%20brownies.%20Digital%20Art.jpg"
-imagecredit = "dalle"
-yield = 10
-prepTime = 90
-cookTime = 60
-authorName = "Shane"
-authorURL = "https://caramelise.github.io/"
-category = "dessert"
-cuisine = "USA"
-+++
+---
+title: "Strawberry Brownies"
+author: ["Shane Mulligan"]
+date: 2022-08-13T00:00:00+12:00
+keywords: ["dalle", "melee"]
+draft: false
+image: "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/strawberry-brownies/DALL%C2%B7E%202022-08-13%2011.45.06%20-%20strawberry%20brownies.%20Digital%20Art.jpg"
+imagecredit: "dalle"
+yield: 10
+prepTime: 20
+cookTime: 40
+authorName: "Shane"
+authorURL: "https://caramelise.github.io/"
+category: "dessert"
+cuisine: "USA"
+tags: ["melee", "strawberry", "valentines", "dessert"]
+ingredients:
+- 1/2 cup olive oil
+- 1 1/4 cup organic raw cane sugar
+- 3/4 cup cacao powder
+- 1/2 teaspoon sea salt
+- 1/2 vanilla pod-scraped (or 1/2 tsp of vanilla paste)
+- 2 large eggs
+- 1/3 cup sifted Flour
+- 1/2 cup strawberry skins
+- 2 tablespoons cacao nibs
+- flaky salt
+
+directions:
+- Preheat the oven to 170 degrees and line an 8 x 8 baking dish with parchment paper.
+- In a large mixing bowl whisk together the oil, cane sugar, cacao powder, salt, vanilla until combined.  Add eggs one at a time until fully incorporated.
+- Add in the flour and mix slowly and gently until smooth. Do not over mix, this may result in a dryer batter.(The batter will be thick).
+- Spoon it into the baking dish. Sprinkle the top with strawberry skins and cacao nibs. Bake for about 40 minutes. To test for doneness, the edges should be hard and formed and a toothpick into the center should come out slightly wet.
+- Sprinkle the brownies with flaky salt and allow them to cool completely in the pan before cutting. This step is very important.
+---
 
 These are my second ever brownies but I had a lot of
 help from Michael Oliver.
 
 This recipe belongs to him.
 
+This was done originally with pomegranate
+seeds instead of strawberry skins, so I'll need to update the images.
+
 
 ## Strawberry brownies {#strawberry-brownies}
-
-
-### Ingredients {#ingredients}
-
--   1/2 cup olive oil
--   1 1/4 cup organic raw cane sugar
--   3/4 cup cacao powder
--   1/2 teaspoon sea salt
--   1/2 vanilla pod-scraped (or 1/2 tsp of vanilla paste)
--   2 large eggs
--   1/3 cup sifted Flour
--   1/2 cup strawberry skins
--   2 tablespoons cacao nibs
--   flaky salt
 
 
 ### Apparatus {#apparatus}
@@ -47,23 +55,6 @@ This recipe belongs to him.
 -   baking dish
 -   toothpick
 -   paring knife
-
-
-### Method {#method}
-
-1.  Preheat the oven to 170 degrees and line an 8 x 8 baking dish with parchment
-    paper.
-2.  In a large mixing bowl whisk together the oil, cane sugar, cacao powder,
-    salt, vanilla until combined.
-    Add eggs one at a time until fully incorporated.
-3.  Add in the flour and mix slowly and gently until smooth. Do not over mix,
-    this may result in a dryer batter.(The batter will be thick).
-4.  Spoon it into the baking dish. Sprinkle the top with strawberry skins and
-    cacao nibs. Bake for about 40 minutes. To test for doneness, the edges should
-    be hard and formed and a toothpick into the center should come out slightly
-    wet.
-5.  Sprinkle the brownies with flaky salt and allow them to cool completely in
-    the pan before cutting. This step is very important.
 
 
 ### How to scrape a vanilla bean {#how-to-scrape-a-vanilla-bean}
