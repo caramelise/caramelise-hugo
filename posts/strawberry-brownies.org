@@ -15,7 +15,7 @@
 #+hugo_custom_front_matter: :authorURL https://caramelise.github.io/
 #+hugo_custom_front_matter: :category dessert
 #+hugo_custom_front_matter: :cuisine USA
-#+hugo_custom_front_matter: :tags ["melee", "dowle", "valentines"]
+#+hugo_custom_front_matter: :tags "melee strawberry valentines"
 
 These are my second ever brownies but I had a lot of
 help from Michael Oliver.
@@ -23,7 +23,7 @@ help from Michael Oliver.
 This recipe belongs to him.
 
 This was done originally with pomegranate
-seeds instead of strawberry skins.
+seeds instead of strawberry skins, so I'll need to update the images.
 
 * Strawberry brownies
 ** Ingredients
