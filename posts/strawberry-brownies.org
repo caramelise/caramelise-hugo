@@ -15,7 +15,7 @@
 #+hugo_custom_front_matter: :authorURL https://caramelise.github.io/
 #+hugo_custom_front_matter: :category dessert
 #+hugo_custom_front_matter: :cuisine USA
-#+hugo_custom_front_matter: :tags ["melee", "strawberry", "valentines"]
+#+hugo_custom_front_matter: :tags ["melee", "strawberry", "valentines", "dessert"]
 
 These are my second ever brownies but I had a lot of
 help from Michael Oliver.
