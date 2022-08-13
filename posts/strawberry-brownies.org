@@ -7,11 +7,16 @@
 #+KEYWORDS: dalle melee
 # #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
 #+hugo_custom_front_matter: :image "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/strawberry-brownies/DALL%C2%B7E%202022-08-13%2011.45.06%20-%20strawberry%20brownies.%20Digital%20Art.jpg"
-#+hugo_custom_front_matter: :yield 10 
+#+hugo_custom_front_matter: :imagecredit dalle
+#+hugo_custom_front_matter: :yield 10
 #+hugo_custom_front_matter: :prepTime 90
 #+hugo_custom_front_matter: :cookTime 60
+#+hugo_custom_front_matter: :authorName Shane
+#+hugo_custom_front_matter: :authorURL: https://caramelise.github.io/
+#+hugo_custom_front_matter: :category dessert
+#+hugo_custom_front_matter: :cuisine USA
 
-These are my first ever brownies but I had a lot of
+These are my second ever brownies but I had a lot of
 help from Michael Oliver.
 
 This recipe belongs to him.
@@ -22,7 +27,7 @@ This recipe belongs to him.
 - 1 1/4 cup organic raw cane sugar
 - 3/4 cup cacao powder
 - 1/2 teaspoon sea salt
-- 1/2 vanilla pod-scraped (or 1/2 tsp of vanilla paste) 
+- 1/2 vanilla pod-scraped (or 1/2 tsp of vanilla paste)
 - 2 large eggs
 - 1/3 cup sifted Flour
 - 1/2 cup strawberry skins
@@ -45,7 +50,7 @@ This recipe belongs to him.
    salt, vanilla until combined.
    Add eggs one at a time until fully incorporated.
 3. Add in the flour and mix slowly and gently until smooth. Do not over mix,
-   this may result in a dryer batter.(The batter will be thick). 
+   this may result in a dryer batter.(The batter will be thick).
 4. Spoon it into the baking dish. Sprinkle the top with strawberry skins and
    cacao nibs. Bake for about 40 minutes. To test for doneness, the edges should
    be hard and formed and a toothpick into the center should come out slightly
