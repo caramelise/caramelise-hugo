@@ -22,6 +22,9 @@ help from Michael Oliver.
 
 This recipe belongs to him.
 
+This was done originally with pomegranate
+seeds instead of strawberry skins.
+
 * Strawberry brownies
 ** Ingredients
 - 1/2 cup olive oil
