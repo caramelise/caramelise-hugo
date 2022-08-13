@@ -1,5 +1,5 @@
 #+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/caramelise/caramelise-hugo
-#+HUGO_SECTION: ./portfolio
+#+HUGO_SECTION: ./recipes
 
 #+TITLE: Strawberry Brownies
 #+DATE: <2022-08-13>
